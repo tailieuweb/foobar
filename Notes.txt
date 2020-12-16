@@ -1,1 +1,3 @@
 For testing
+1) NO - composer require tailieuweb/foobar
+2) OK - composer require tailieuweb/foobar "dev-main"
