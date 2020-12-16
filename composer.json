@@ -3,9 +3,10 @@
     "description": "for testing - DO NOT COMMIT!!!",
     "authors": [
         {
-            "name": "LAMPART",
-            "email": "admin@lampart-vn.com"
+            "name": "tailieuweb",
+            "email": "admin@tailieuweb.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
